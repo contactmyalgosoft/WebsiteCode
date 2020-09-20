@@ -1,0 +1,40 @@
+
+.slide-margin-top{
+    padding-top: 88px !important;
+    padding-bottom: 45px !important;
+}
+.header-box-group{
+    margin: 30px 30px 5px 30px;
+}
+.header-box{
+    border-radius: 3%;
+    padding: 0px;
+    background-color: #191917;
+    margin: 5px;
+    
+    a {
+    color: #ff4800;;
+    font-size: 13px;
+    font-weight: 700;
+    text-decoration: none;
+    line-height: 18px;
+    margin: 0px 10px 0px 10px;
+    width: initial;
+    text-transform: uppercase;
+    border-bottom: 1px #f17646 solid;
+    padding: 8px 5px 8px 5px;
+    min-height: 35px;
+    }
+
+    p {
+    font-size: 13px;
+    font-weight: 300;
+    color: #fff;
+    margin-top: 2px;
+    line-height: 18px;
+    text-transform: capitalize;
+    border-bottom: none;
+    padding: 5px 5px 10px 5px;
+    }
+}
+
